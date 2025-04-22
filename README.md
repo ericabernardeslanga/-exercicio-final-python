@@ -1,5 +1,3 @@
-# -exercicio-final-python
-
 🧪 Desafio de Seleção – Exercício de Python (Google
 Colab + GitHub)
 ✅ Objetivo:
